@@ -120,6 +120,8 @@ By leveraging **Asterisk’s open-source telephony framework**, CampusTalk enabl
 ---
 
 ## Authors
-📌  Horieb Mesfun 
-📌  Natnael Haile 
+📌  Horieb Mesfun
+
+📌  Natnael Haile
+
 📌  Siem Hagos
