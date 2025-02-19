@@ -113,8 +113,11 @@ By leveraging **Asterisk’s open-source telephony framework**, CampusTalk enabl
 
 ## 📌 Future Enhancements
 🔹 **AI-based Call Analytics**: Implement **machine learning models** to analyze call patterns and optimize network performance.
+
 🔹 **Cloud Deployment**: Host the platform on **AWS or Azure** for better scalability and global accessibility.
+
 🔹 **Integration with WebRTC**: Enable **browser-based VoIP calling** for improved accessibility.
+
 🔹 **Enhanced Security Measures**: Implement **end-to-end encryption with Zero Trust Architecture**.
 
 ---
